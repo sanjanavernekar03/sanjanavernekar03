@@ -71,66 +71,84 @@ Hey! I'm **Sanjana Vernekar**, a Computer Science Engineering student who enjoys
 
 ---
 
-## 🚀 Featured Projects
+## ✦ Featured Projects
 
-<div align="center">
-  <p><i>A collection of projects I've built and explored.</i></p>
-</div>
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#17152B" align="left">
 
-<div align="left">
-<img src="https://img.shields.io/badge/PROJECT%2001-8B5CF6?style=flat-square&labelColor=1E1B2E"/>
+<h3>01 · AI-Powered DNA Sequence Classification and Prediction System</h3>
 
-<h3>AI-Powered DNA Sequence Classification & Prediction System</h3>
+<p>A bioinformatics-based application for DNA sequence analysis, genetic pattern identification, classification, and risk prediction.</p>
 
-<a href="https://github.com/sanjanavernekar03/AI-Powered-DNA-Sequence-Classification-and-Prediction-System">
-<img src="https://img.shields.io/badge/⌘%20EXPLORE%20ON%20GITHUB-C4B5FD?style=for-the-badge&labelColor=25213A"/>
-</a>
-</div>
+<strong>TECHNOLOGIES</strong>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+<a href="https://github.com/sanjanavernekar03/AI-Powered-DNA-Sequence-Classification-and-Prediction-System"><strong>↗ VIEW PROJECT</strong></a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#17152B" align="left">
 
-<div align="left">
-<img src="https://img.shields.io/badge/PROJECT%2002-8B5CF6?style=flat-square&labelColor=1E1B2E"/>
+<h3>02 · ICU AI Monitoring System</h3>
 
-<h3>ICU AI Monitoring System</h3>
+<p>A healthcare-focused monitoring application designed to support ICU patient monitoring through an AI-powered system.</p>
 
-<a href="https://github.com/sanjanavernekar03/icu-ai-monitoring-system">
-<img src="https://img.shields.io/badge/⌘%20EXPLORE%20ON%20GITHUB-C4B5FD?style=for-the-badge&labelColor=25213A"/>
-</a>
-</div>
+<strong>TECHNOLOGIES</strong>
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</p>
+
+<a href="https://github.com/sanjanavernekar03/icu-ai-monitoring-system"><strong>↗ VIEW PROJECT</strong></a>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#17152B" align="left">
 
-<div align="left">
-<img src="https://img.shields.io/badge/PROJECT%2003-8B5CF6?style=flat-square&labelColor=1E1B2E"/>
+<h3>03 · Community Emergency Coordination and Citizen Assistance Network</h3>
 
-<h3>Community Emergency Coordination & Citizen Assistance Network</h3>
+<p>A community-focused platform designed to support emergency coordination and connect citizens with assistance during emergencies.</p>
 
-<a href="https://github.com/sanjanavernekar03/Community-Emergency-Coordination-and-Citizen-Assistance-Network">
-<img src="https://img.shields.io/badge/⌘%20EXPLORE%20ON%20GITHUB-C4B5FD?style=for-the-badge&labelColor=25213A"/>
-</a>
-</div>
+<strong>TECHNOLOGIES</strong>
+
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+</p>
+
+<a href="https://github.com/sanjanavernekar03/Community-Emergency-Coordination-and-Citizen-Assistance-Network"><strong>↗ VIEW PROJECT</strong></a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#17152B" align="left">
 
-<div align="left">
-<img src="https://img.shields.io/badge/PROJECT%2004-8B5CF6?style=flat-square&labelColor=1E1B2E"/>
+<h3>04 · Smart To-Do List</h3>
 
-<h3>Smart To-Do List</h3>
+<p>A modern, responsive task management application that helps users organise tasks and manage everyday activities.</p>
 
-<a href="https://github.com/sanjanavernekar03/smart-todo-list">
-<img src="https://img.shields.io/badge/⌘%20EXPLORE%20ON%20GITHUB-C4B5FD?style=for-the-badge&labelColor=25213A"/>
-</a>
-</div>
+<strong>TECHNOLOGIES</strong>
+
+<p>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+<a href="https://github.com/sanjanavernekar03/smart-todo-list"><strong>↗ VIEW PROJECT</strong></a>
 
 </td>
 </tr>
