@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=SANJANA%20VERNEKAR&fontSize=48&color=0:312e81,50:6d28d9,100:0f172a&stroke=8b5cf6&fontColor=ffffff&animation=fadeIn&strokeWidth=2" width="100%"/>
 
@@ -25,12 +25,13 @@
 
 Hey! I'm **Sanjana Vernekar**, a Computer Science Engineering student who enjoys building applications, exploring technologies, and solving problems through code.
 
-- 💻 Interested in Software Development and Full Stack Engineering
-- ☕ Strengthening Java, DSA, and programming fundamentals
-- 🌐 Exploring frontend, backend, and database technologies
-- 🧠 Interested in Artificial Intelligence and Machine Learning
-- 🚀 Learning by building practical projects
-- 🎯 Working towards becoming a Software Development Engineer
+- 🎓 Pursuing Computer Science Engineering with a **CGPA of 9.00**.
+- 💻 Interested in Software Development and Full Stack Engineering.
+- ☕ Strengthening Java, DSA, and programming fundamentals.
+- 🌐 Exploring frontend, backend, and database technologies.
+- 🧠 Interested in Artificial Intelligence and Machine Learning.
+- 🚀 Learning by building practical projects.
+- 🎯 Working towards becoming a Software Development Engineer.
 
 ---
 
