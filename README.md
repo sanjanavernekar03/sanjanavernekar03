@@ -237,7 +237,7 @@ A modern, responsive To-Do List application.
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjanavernekar03&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
 
 </div>
 
