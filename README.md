@@ -74,75 +74,34 @@ Hey! I'm **Sanjana Vernekar**, a Computer Science Engineering student who enjoys
 ## 🚀 Featured Projects
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1500&color=A78BFA&center=true&vCenter=true&width=650&lines=IDEAS+INTO+APPLICATIONS;ENGINEERING+THROUGH+EXPERIMENTATION;BUILDING+PROJECTS+THAT+MATTER"/>
-
-*Explore my work, experiments, and software development journey.*
-
+  <p><i>A collection of projects I've built and explored.</i></p>
 </div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
+<div align="left">
+<img src="https://img.shields.io/badge/PROJECT%2001-8B5CF6?style=flat-square&labelColor=1E1B2E"/>
 
-<img src="https://img.shields.io/badge/01-FEATURED%20PROJECT-7C3AED?style=for-the-badge"/>
-
-# 🧬
-
-### AI-Powered-DNA-Sequence-Classification-and-Prediction-System
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
-</div>
-
-A bioinformatics and healthcare project focused on DNA sequence analysis, classification, and prediction.
-
-**Highlights**
-- DNA sequence processing and analysis
-- Classification and risk prediction
-- Genomic and healthcare-oriented features
-
-<div align="center">
+<h3>AI-Powered DNA Sequence Classification & Prediction System</h3>
 
 <a href="https://github.com/sanjanavernekar03/AI-Powered-DNA-Sequence-Classification-and-Prediction-System">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/⌘%20EXPLORE%20ON%20GITHUB-C4B5FD?style=for-the-badge&labelColor=25213A"/>
 </a>
-
 </div>
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
+<div align="left">
+<img src="https://img.shields.io/badge/PROJECT%2002-8B5CF6?style=flat-square&labelColor=1E1B2E"/>
 
-<img src="https://img.shields.io/badge/02-HEALTHCARE%20TECH-0891B2?style=for-the-badge"/>
-
-# 🏥
-
-### icu-ai-monitoring-system
-
-<img src="https://img.shields.io/badge/AI%20%26%20Healthcare-0891B2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Monitoring-0E7490?style=flat-square"/>
-
-</div>
-
-An AI-focused project in the healthcare monitoring domain.
-
-**Highlights**
-- ICU monitoring system
-- Healthcare-focused application
-- Technology-driven monitoring concept
-
-<div align="center">
+<h3>ICU AI Monitoring System</h3>
 
 <a href="https://github.com/sanjanavernekar03/icu-ai-monitoring-system">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/⌘%20EXPLORE%20ON%20GITHUB-C4B5FD?style=for-the-badge&labelColor=25213A"/>
 </a>
-
 </div>
 
 </td>
@@ -150,74 +109,32 @@ An AI-focused project in the healthcare monitoring domain.
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
+<div align="left">
+<img src="https://img.shields.io/badge/PROJECT%2003-8B5CF6?style=flat-square&labelColor=1E1B2E"/>
 
-<img src="https://img.shields.io/badge/03-COMMUNITY%20TECH-DB2777?style=for-the-badge"/>
-
-# 🚨
-
-### Community-Emergency-Coordination-and-Citizen-Assistance-Network
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-
-</div>
-
-A project centered on community emergency coordination and citizen assistance.
-
-**Highlights**
-- Emergency coordination
-- Citizen assistance network
-- Community-focused solution
-
-<div align="center">
+<h3>Community Emergency Coordination & Citizen Assistance Network</h3>
 
 <a href="https://github.com/sanjanavernekar03/Community-Emergency-Coordination-and-Citizen-Assistance-Network">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-DB2777?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/⌘%20EXPLORE%20ON%20GITHUB-C4B5FD?style=for-the-badge&labelColor=25213A"/>
 </a>
-
 </div>
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
+<div align="left">
+<img src="https://img.shields.io/badge/PROJECT%2004-8B5CF6?style=flat-square&labelColor=1E1B2E"/>
 
-<img src="https://img.shields.io/badge/04-WEB%20DEVELOPMENT-16A34A?style=for-the-badge"/>
-
-# ✅
-
-### smart-todo-list
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
-</div>
-
-A modern, responsive To-Do List application.
-
-**Highlights**
-- Clean and responsive interface
-- Interactive task management
-- Built with HTML, CSS, and JavaScript
-
-<div align="center">
+<h3>Smart To-Do List</h3>
 
 <a href="https://github.com/sanjanavernekar03/smart-todo-list">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-16A34A?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/⌘%20EXPLORE%20ON%20GITHUB-C4B5FD?style=for-the-badge&labelColor=25213A"/>
 </a>
-
 </div>
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-**✦ FOUR PROJECTS. FOUR DIFFERENT PROBLEM SPACES. ONE CONTINUOUS LEARNING JOURNEY. ✦**
-
-</div>
 
 ---
 
